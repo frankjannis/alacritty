@@ -116,4 +116,4 @@ mods = "Control"
 action = "Quit"
 
 [terminal]
-shell = { program = "tmux", args = [ "new-session", "-A", "-s", "main" ] }
+shell = { program = "tmux", args = [] }
