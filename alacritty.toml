@@ -101,11 +101,6 @@ mods = "Control|Shift"
 action = "SearchForward"
 
 [[keyboard.bindings]]
-key = "B"
-mods = "Control|Shift"
-action = "SearchBackward"
-
-[[keyboard.bindings]]
 key = "Key0"
 mods = "Control"
 action = "ResetFontSize"
