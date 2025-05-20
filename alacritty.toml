@@ -8,7 +8,7 @@ WINIT_X11_SCALE_FACTOR = "1"
 
 [window]
 decorations = "None"
-opacity = 0.8
+opacity = 1.0
 decorations_theme_variant = "None" # "Dark" | "Light" | "None"
 startup_mode = "Maximized"
 
@@ -110,5 +110,5 @@ key = "Q"
 mods = "Control"
 action = "Quit"
 
-[terminal]
-shell = { program = "tmux", args = [] }
+# [terminal]
+# shell = { program = "tmux", args = [] }
