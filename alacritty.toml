@@ -101,6 +101,11 @@ mods = "Control|Shift"
 action = "SearchForward"
 
 [[keyboard.bindings]]
+key = "N"
+mods = "Control|Shift"
+action = "CreateNewWindow"
+
+[[keyboard.bindings]]
 key = "Key0"
 mods = "Control"
 action = "ResetFontSize"
